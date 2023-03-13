@@ -1,6 +1,5 @@
 #Bagas Satrio
 #121140077
-#Soal 3
 
 class Baju:
     # atribut kelas (nilai konsisten untuk semua instance)
